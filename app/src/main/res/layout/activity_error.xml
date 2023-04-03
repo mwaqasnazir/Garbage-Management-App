@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ErrorActivity">
+
+    <LinearLayout
+        android:id="@+id/disabledScreen"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:layout_marginBottom="20dp"
+            android:textColor="@color/green_500"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="DISABLED PROFILE"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/disabled"
+            app:tint="@color/vivid_700" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_marginTop="150dp"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:text="Contact with admin for any query \n 03*********"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/deactivatedScreen"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:layout_marginBottom="20dp"
+            android:textColor="@color/green_500"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="Deactivated"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/disabled"
+            app:tint="@color/vivid_700" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_marginTop="150dp"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:text="Contact with admin for any query \n 03*********"/>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

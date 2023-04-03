@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trash Truck</string>
+    <string name="title_activity_users">users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Drivers">Drivers</string>
+    <string name="Users">Users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_200">#bedc9c</color>
+    <color name="green_500">#7dba35</color>
+    <color name="green_700">#5a9624</color>
+    <color name="vivid_200">#ffda7d</color>
+    <color name="vivid_700">#ff9600</color>
+    <color name="vivid_50">#fff3e0</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="toobar_color">#5a9624</color>
+</resources>

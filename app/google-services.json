@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177006959453",
+    "firebase_url": "https://db-gma-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "db-gma",
+    "storage_bucket": "db-gma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177006959453:android:20c570551e1a0b5bf526b4",
+        "android_client_info": {
+          "package_name": "com.example.gma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177006959453-sr9evhe1vm3hm7vsud8trc0j6tacfl43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gma",
+            "certificate_hash": "3c10e9798728a3090a2bc904905aea6fe4411ba0"
+          }
+        },
+        {
+          "client_id": "177006959453-tbm0o67lt5qrphmf8vmc7ehvmmv67n9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ej1E4MHxeNMXMmVrwdjvbmEl6tdsdbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177006959453-c45srjeo08c8355d1rdhl9f5ileub7ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
